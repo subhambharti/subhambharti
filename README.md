@@ -7,14 +7,14 @@
 
 📍 West Bengal, India
 
-<h2>🔎 Focus: Recon · VAPT · Threat Hunting · DFIR · SIEM</h2>
+🔎 Focus: Recon · VAPT · Threat Hunting · DFIR · SIEM
 
 🎯 Motto: Hack to Learn — Defend to Protect
 
 > Objective: Improve security posture through research, automation and ethical testing
 > Status: Active — Hunting & Learning
 
-<h3>⚔️ Skills & Arsenal</h3>
+⚔️ Skills & Arsenal
 
 Offensive Tools
 Nmap Burp Suite Gobuster Wireshark Metasploit Nikto John Hashcat
@@ -39,14 +39,16 @@ Kali Linux Windows AD Docker Raspberry Pi
 bash
 ╭─🎯 root@cybersec:~ 
 ╰─$ cat /proc/training_stats
+
 ┌─────────────────────────────────────────────┐
 │            TRAINING ACHIEVEMENTS            │
 ├─────────────────────────────────────────────┤
 │  TryHackMe: 50+ Labs Completed            │
 │  CTF Events: Active Participant           │
-│  Rank: Top 6%  Platform Wide              │
+│  Rank: Top 10% Platform Wide              │
 │  Rooms: Offensive & Defensive Paths       │
 └─────────────────────────────────────────────┘
+
 🛡️ Platform Progress:
 
 TryHackMe: 50+ security labs completed
