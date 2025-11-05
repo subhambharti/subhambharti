@@ -1,194 +1,78 @@
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%00FF41&center=true&vCenter=true&width=650&lines=Ethical+Hacker;Cyber+Security+Analyst;Red+Team+%26+Blue+Team;Threat+Hunter;Digital+Shadow" alt="typing-banner"/> </p> <h1 align="center">💀 CyberOps — Hacker Profile 💀</h1>
 
+🧠 About Me
 
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=subhambharti&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=subhambharti&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhambharti&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&layout=compact)
+👨‍💻 Subham Bharti — Cyber Security Analyst & Pentester
 
-</div>
-```
+📍 West Bengal, India
 
-## 🔧 **Fixed Hacker Terminal Section:**
+🔎 Focus: Recon · VAPT · Threat Hunting · DFIR · SIEM
 
-```markdown
-## 🎮 **Hacker Terminal**
+🎯 Motto: Hack to Learn — Defend to Protect
 
-```bash
+> Objective: Improve security posture through research, automation and ethical testing
+> Status: Active — Hunting & Learning
+
+⚔️ Skills & Arsenal
+
+Offensive Tools
+Nmap Burp Suite Gobuster Wireshark Metasploit Nikto John Hashcat
+
+Blue / DFIR Tools
+Splunk Sysmon Wazuh ELK Volatility
+
+Languages & Scripting
+Python Bash PowerShell JavaScript SQL
+
+Environments
+Kali Linux Windows AD Docker Raspberry Pi
+
+| Project                   |                                         Description |    Status   |
+| ------------------------- | --------------------------------------------------: | :---------: |
+| **Cyber Recon Suite**     | Automated recon & enumeration scripts (Python/Bash) |      ✅      |
+| **SOC Lab**               |      Splunk + Wazuh lab for threat hunting & alerts | ⚙️ Building |
+| **Malware PCAP Analysis** |    PCAP analysis, IoC extraction and hunting guides |      ✅      |
+| **Secure Auth System**    |            Demo of secure hashing and auth controls |      🚧     |
+
+**💻 GitHub Stats & Activity**
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhambharti&show_icons=true&theme=radical" height="140" alt="github-stats"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=subhambharti&theme=radical" height="140" alt="streak-stats"/> </p>
+
+🛡️ Certifications & Achievements
+
+CEH — Certified Ethical Hacker (listed as claim; add cert link if available)
+
+CND — Certified Network Defender
+
+Oracle AI Foundations Associate
+
+50+ labs on TryHackMe & active CTF participation
+
+🛰️ Cyber Footprint & Contact
+
+GitHub: https://github.com/subhambharti
+
+LinkedIn: https://www.linkedin.com/in/subham-bharti/
+
+TryHackMe: https://tryhackme.com/p/subhambharti
+
+Email: shubhambharti500@hotmail.com
+
 ╭─subham@cybersec ~
 ╰─$ whoami
-cybersecurity-analyst
+subhambharti
 
 ╭─subham@cybersec ~
-╰─$ ls -la skills/
-drwxr-xr-x  VAPT/ OSINT/ ThreatAnalysis/ NetworkSecurity/
+╰─$ ls -la projects/
+Cyber-Recon-Suite/  SOC-Lab/  PCAP-Analysis/
 
 ╭─subham@cybersec ~
-╰─$ cat motivation.txt
-"Stay Curious. Stay Ethical. Stay Secure."
+╰─$ cat motto.txt
+"Stay curious. Stay ethical. Stay secure."
 
-╭─subham@cybersec ~
-╰─$ scan_target --host 192.168.1.0/24
-[*] Scanning network...
-[*] Found 5 active hosts
-[*] Vulnerability assessment in progress...
-```
-```
+⚠️ Security Notice
 
-## 🔧 **Fixed Footer Section:**
+Unauthorized use of any tools or techniques found here for malicious purposes is strictly prohibited.
+Tools, scripts and write-ups are for education, research and authorized testing only.
 
-```markdown
----
-
-<div align="center">
-
-### ⚠️ **Disclaimer**
-> *"All tools and projects are for educational and authorized testing purposes only."*
-
-![Profile Views](https://komarev.com/gh/username?color=00FF00&label=PROFILE+VIEWS&style=for-the-plastic)
-
-**"The best way to predict the future is to create it." - Alan Kay**
-
-**© All Rights Reserved 2025 | Subham Bharti**
-
-</div>
-```
-
-## 🚨 **Errors Fixed:**
-
-1. **Username**: Changed from `subhambhat18` to `subhambharti`
-2. **Color codes**: Fixed `00FF008` to `00FF00`
-3. **URL syntax**: Fixed broken brackets and parentheses
-4. **Spelling**: Fixed `top-langy` to `top-langs`
-5. **Terminal formatting**: Fixed command line symbols
-6. **Markdown syntax**: Proper code block formatting
-
-## ✅ **Complete Corrected README.md:**
-
-Just copy and paste this **entire corrected version**:
-
-```markdown
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=00FF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There+👋;+I'm+SUBHAM+BHARTI!;" />
-</h1>
-
-<h3 align="center">💻 Cyber Security Analyst | 🔒 Ethical Hacker | 🛡️ Network Defender</h3>
-
----
-
-## 🚀 **About Me**
-
-```python
-class CyberSecurityAnalyst:
-    def __init__(self):
-        self.name = "Subham Bharti"
-        self.role = "Security Researcher & Ethical Hacker"
-        self.location = "West Bengal, India"
-        self.passion = "Turning vulnerabilities into lessons"
-        
-    def skills(self):
-        return ["VAPT", "Threat Analysis", "Network Security", "Penetration Testing"]
-    
-    def tools(self):
-        return ["Wireshark", "Metasploit", "Burp Suite", "Nmap", "Nessus"]
-    
-    def say_hello(self):
-        print("Thanks for dropping by! Let's make the digital world safer.")
-
-me = CyberSecurityAnalyst()
-me.say_hello()
-```
-
----
-
-## 🔥 **My Cyber Security Stack**
-
-### 🛡️ **Security Domains**
-```bash
-├── Vulnerability Assessment
-├── Penetration Testing
-├── Network Defense
-├── Threat Intelligence
-├── Incident Response
-└── Security Monitoring
-```
-
-### ⚡ **Tools & Technologies**
-<p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
-
----
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=subhambharti&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=subhambharti&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhambharti&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&layout=compact)
-
-</div>
-
----
-
-## 🎮 **Hacker Terminal**
-
-```bash
-╭─subham@cybersec ~
-╰─$ whoami
-cybersecurity-analyst
-
-╭─subham@cybersec ~
-╰─$ ls -la skills/
-drwxr-xr-x  VAPT/ OSINT/ ThreatAnalysis/ NetworkSecurity/
-
-╭─subham@cybersec ~
-╰─$ cat motivation.txt
-"Stay Curious. Stay Ethical. Stay Secure."
-
-╭─subham@cybersec ~
-╰─$ scan_target --host 192.168.1.0/24
-[*] Scanning network...
-[*] Found 5 active hosts
-[*] Vulnerability assessment in progress...
-```
-
----
-
-## 📫 **Connect With Me**
-
-<p align="center">
-  <a href="mailto:shubhambharti500@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/subham-bharti/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/subhambharti">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### ⚠️ **Disclaimer**
-> *"All tools and projects are for educational and authorized testing purposes only."*
-
-**"The best way to predict the future is to create it." -**
-
-**© All Rights Reserved 2025 | Subham Bharti**
-
-</div>
-```
+[LOG] Profile access monitored
+[TRACE] Digital fingerprints retained
