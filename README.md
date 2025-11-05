@@ -7,6 +7,12 @@
 
 📍 West Bengal, India
 
+<p align="center"> 
+  • <a href="https://www.linkedin.com/in/subham-bharti/" target="_blank">🌐 LinkedIn</a> 
+  • <a href="mailto:shubhambharti500@hotmail.com" target="_blank">📧 Email</a> 
+  • <a href="https://tryhackme.com/p/subhambharti" target="_blank">🎓 TryHackMe</a> 
+  • <a href="https://github.com/subhambharti" target="_blank">💻 GitHub</a> </p>
+
 🔎 Focus: Recon · VAPT · Threat Hunting · DFIR · SIEM
 
 🎯 Motto: Hack to Learn — Defend to Protect
@@ -36,18 +42,6 @@ Kali Linux Windows AD Docker Raspberry Pi
 | **Secure Auth System**    |            Demo of secure hashing and auth controls |      🚧     |
 
 🏆 Cybersecurity Training & CTFs
-bash
-╭─🎯 root@cybersec:~ 
-╰─$ cat /proc/training_stats
-
-┌─────────────────────────────────────────────┐
-│            TRAINING ACHIEVEMENTS            │
-├─────────────────────────────────────────────┤
-│  TryHackMe: 50+ Labs Completed            │
-│  CTF Events: Active Participant           │
-│  Rank: Top 10% Platform Wide              │
-│  Rooms: Offensive & Defensive Paths       │
-└─────────────────────────────────────────────┘
 
 🛡️ Platform Progress:
 
@@ -55,14 +49,14 @@ TryHackMe: 50+ security labs completed
 
 CTF Participation: Regular competitive events
 
+Global Rank: Top 6% Worldwide 🌍
+
 Skill Paths: Complete-Offensive, Cyber Defense, Web Fundamentals
 
 Achievements: Multiple challenge-first completions
 
 
-
 ## 🎮 **Hacker Terminal**
-
 
 🛡️ Certifications & Achievements
 <p align="center"> <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=NFqD6Kd3KtEXsI+CT2XrEzE3ERSM5mpHRcFmdDdddlQ=" target="_blank"> <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-red?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="CEH Certified Ethical Hacker" /> </a> <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=frBV2h/Iqxh6cHhbQYW/scbE4t3IbJQVaUPl7WuejM8=" target="_blank"> <img src="https://img.shields.io/badge/CND-Certified_Network_Defender-green?style=for-the-badge&logo=cisco&logoColor=white" alt="CND Certified Network Defender" /> </a> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E13D35C06F5A6299E81EAFE7273A39BB19105F585D5A7EF178AD51ED781925BC" target="_blank"> <img src="https://img.shields.io/badge/Oracle-AI_Foundations_Associate-blue?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle AI Foundations Associate" /> </a> </p>
