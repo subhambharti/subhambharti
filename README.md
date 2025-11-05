@@ -1,8 +1,9 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%00FF41&center=true&vCenter=true&width=650&lines=Ethical+Hacker;Cyber+Security+Analyst;Red+Team+%26+Blue+Team;Threat+Hunter;Digital+Shadow" alt="typing-banner"/> </p> <h1 align="center">💀 CyberOps — Hacker Profile 💀</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=00FF00&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hey+There+👋;+I'm+SUBHAM+BHARTI!;+Cyber+Security+Analyst;+Ethical+Hacker;+Network+Defender;+Threat+Researcher" />
+</p>
 
-🧠 About Me
-
-👨‍💻 Subham Bharti — Cyber Security Analyst & Pentester
+<h1 align="center">💀 Subham Bharti — Hacker Profile 💀</h1>
+<h3 align="center">💻 Cyber Security Analyst | 🔒 Ethical Hacker | 🛡️ Network Defender</h3>
 
 📍 West Bengal, India
 
@@ -34,8 +35,6 @@ Kali Linux Windows AD Docker Raspberry Pi
 | **Malware PCAP Analysis** |    PCAP analysis, IoC extraction and hunting guides |      ✅      |
 | **Secure Auth System**    |            Demo of secure hashing and auth controls |      🚧     |
 
-**💻 GitHub Stats & Activity**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhambharti&show_icons=true&theme=radical" height="140" alt="github-stats"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=subhambharti&theme=radical" height="140" alt="streak-stats"/> </p>
 
 🛡️ Certifications & Achievements
 
