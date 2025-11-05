@@ -11,7 +11,7 @@
   • <a href="https://tryhackme.com/p/subhambharti" target="_blank">🎓 TryHackMe</a> 
   • <a href="https://github.com/subhambharti" target="_blank">💻 GitHub</a> </p>
 
-🔎 Focus: Recon · VAPT · Threat Hunting · DFIR · SIEM
+🔎 Focus: Recon · VAPT · Threat Hunting · OSINT · SIEM
 
 🎯 Motto: Hack to Learn — Defend to Protect
 
@@ -19,50 +19,80 @@
 > Status: Active — Hunting & Learning
 
 ⚔️ Skills & Arsenal
+<p align="center"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Penetration_Testing-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web_Security-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Network_Analysis-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python_Scripting-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux_Admin-green?style=flat-square" />
+</p>
 
-🎯 Core Competencies
-🔧 Operating Systems
+<h3>🎯 Core Competencies
+🔧 Operating Systems</h3>
+
 Linux Windows Kali Linux Windows AD
 
-🛡️ Technical Skills
+<h3>🛡️ Technical Skills</h3>
+
 VAPT Web Application Security OSINT Ethical Hacking Hashcat ExploitDB OpenMediaVault
 
-💾 Database Management
+<h3>💾 Database Management</h3>
+
 MySQL Database Security SQL Injection
 
-🌐 Networking & Infrastructure
+<h3>🌐 Networking & Infrastructure</h3>
+
 Switching & Routing TCP/IP DHCP Network Surveillance Packet Analysis
 
-⚙️ Additional Expertise
+<h3>⚙️ Additional Expertise</h3>
+
 Computer Hardware MS Office System Administration Network Defense
 
-📊 Tool Proficiency Matrix
-Category	Tools & Technologies
-Vulnerability Assessment	Nessus Nmap Nikto OpenVAS
-Web Application Testing	Burp Suite OWASP ZAP Gobuster
-Network Analysis	Wireshark TCPDump NetworkMiner
-Exploitation	Metasploit ExploitDB SQLMap
-Password Attacks	John the Ripper Hashcat Hydra
-Reconnaissance	Sublist3r Recon-ng theHarvester
-Scripting & Automation	Python Bash PowerShell
-
-🚀 Skill Badges Overview
-<p align="center"> <img src="https://img.shields.io/badge/Penetration_Testing-Expert-red?style=flat-square" /> <img src="https://img.shields.io/badge/Web_Security-Advanced-orange?style=flat-square" /> <img src="https://img.shields.io/badge/Network_Analysis-Advanced-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Python_Scripting-Intermediate-yellow?style=flat-square" /> <img src="https://img.shields.io/badge/Linux_Admin-Expert-green?style=flat-square" /> </p>
 
 
 
-<p align="center"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /> </p>
+<h2>🔧 Projects & Research</h2>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" /> <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /> <img src="https://img.shields.io/badge/OpenMediaVault-1C6CEC?style=for-the-badge" /> </p>
+
+<h3>🔐 Password Hashing & Cracking Simulation</h3>
+
+Python-based security demonstration tool
+
+SHA-256 hashing with salt implementation
+
+Dictionary & rainbow table attack simulations
+
+Educational tool for password security awareness
+
+Tech: Python Cryptography Web Security
+
+<h3>🗄️ Network Attached Storage Server (NAS) & OTT Platform
+Raspberry Pi + OpenMediaVault deployment</h3>
+
+CIFS/SMB/NFS protocol implementation
+
+Portainer for container management
+
+Jellyfin media server for OTT streaming
+
+Secure file sharing & media distribution
+
+Tech: Raspberry Pi Docker Portainer Jellyfin OpenMediaVault
+
+<h3>🌐 Web Application Vulnerability Scanner
+Automated security assessment tool</h3>
+
+SQL Injection & XSS detection capabilities
+
+Custom vulnerability scanning scripts
+
+Security headers & configuration analysis
 
 
 
-| Project                   |                                         Description |    Status   |
-| ------------------------- | --------------------------------------------------: | :---------: |
-| **Cyber Recon Suite**     | Automated recon & enumeration scripts (Python/Bash) |      ✅      |
-| **SOC Lab**               |      Splunk + Wazuh lab for threat hunting & alerts | ⚙️ Building |
-| **Malware PCAP Analysis** |    PCAP analysis, IoC extraction and hunting guides |      ✅      |
-| **Secure Auth System**    |            Demo of secure hashing and auth controls |      🚧     |
-
-🏆 Cybersecurity Training & CTFs
+<h3>Tech: Python Web Security Automation
+🏆 Cybersecurity Training & CTFs</h3>
 
 🛡️ Platform Progress:
 
